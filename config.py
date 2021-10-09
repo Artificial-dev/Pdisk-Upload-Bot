@@ -9,8 +9,8 @@ class Config(object):
     
     API_KEY = os.environ.get("API_KEY", "")
 
-    # AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "").split())
+    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "").split())
 
-    # PRIVATE = bool(os.environ.get("PRIVATE", ""))
+    PRIVATE = bool(os.environ.get("PRIVATE", ""))
 
     
