@@ -14,8 +14,8 @@
     "title"
   ],
   "success_url": "https://telegram.me/uptoPDiskBot",
-  "website": "https://github.com/OO7ROBot",
-  "repository": "https://github.com/OO7ROBot/Pdisk-Upload-Bot",
+  "website": "https://github.com/Artificial-dev",
+  "repository": "https://github.com/Artificial-dev/Pdisk-Upload-Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string from botfather.",
